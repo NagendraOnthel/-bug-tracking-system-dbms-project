@@ -57,7 +57,7 @@ The database contains the following tables:
 
 ## ERD
 
-![Bug Tracking System ERD](assets/erd.png)
+Assets/erd.png
 
 ## Design Review
 
