@@ -57,7 +57,7 @@ The database contains the following tables:
 
 ## ERD
 
-Assets/erd.png
+(https://github.com/NagendraOnthel/-bug-tracking-system-dbms-project/blob/main/Assets/erd.png?raw=true)
 
 ## Design Review
 
