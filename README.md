@@ -61,7 +61,7 @@ The database contains the following tables:
 
 ## Design Review
 
-![Bug Tracking System Design Review](assets/design-review.png)
+(https://github.com/NagendraOnthel/-bug-tracking-system-dbms-project/blob/main/Assets/design-review.png)
 
 ## Stored Procedures
 
